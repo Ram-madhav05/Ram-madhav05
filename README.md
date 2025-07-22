@@ -15,21 +15,61 @@ A passionate Frontend Developer from India, focused on building seamless and per
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+<section class="py-6 px-4 bg-gray-50">
+  <h2 class="text-2xl font-bold mb-4 text-gray-800">🚀 Tech Stack</h2>
 
----
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-gray-700">
+    
+    <!-- Frontend -->
+    <div>
+      <h3 class="font-semibold text-lg mb-2">🖥️ Frontend</h3>
+      <ul class="space-y-1">
+        <li>React</li>
+        <li>JavaScript (ES6+)</li>
+      </ul>
+    </div>
+
+    <!-- Backend -->
+    <div>
+      <h3 class="font-semibold text-lg mb-2">⚙️ Backend</h3>
+      <ul class="space-y-1">
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+      </ul>
+    </div>
+
+    <!-- DevOps & Tools -->
+    <div>
+      <h3 class="font-semibold text-lg mb-2">🛠️ DevOps & Tools</h3>
+      <ul class="space-y-1">
+        <li>Jenkins</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </div>
+
+    <!-- Databases -->
+    <div>
+      <h3 class="font-semibold text-lg mb-2">🗃️ Databases</h3>
+      <ul class="space-y-1">
+        <li>MongoDB</li>
+        <li>MySQL</li>
+      </ul>
+    </div>
+
+    <!-- AI/ML -->
+    <div>
+      <h3 class="font-semibold text-lg mb-2">🧠 AI/ML</h3>
+      <ul class="space-y-1">
+        <li>TensorFlow</li>
+        <li>Basic LLM Concepts</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
 
 ### 🔭 Current Goals & Learning Focus
 
