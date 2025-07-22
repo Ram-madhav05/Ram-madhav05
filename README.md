@@ -33,8 +33,8 @@ A passionate Frontend Developer from India, eager to build performant and visual
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your link)*
-- 💻 [Portfolio](https://yourportfolio.com) *(Optional, replace with real site if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ram-madhav-m-420466336/)
+
 
 ---
 
