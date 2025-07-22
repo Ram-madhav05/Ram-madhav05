@@ -68,4 +68,4 @@ A passionate Frontend Developer from India, focused on building seamless and per
 
 ---
 
-<p align="center"><em>⚡ "Building the web of tomorrow with the code of today."</em></p>
+<p align="center"><em>"Turning ideas into scalable solutions with code and curiosity.🚀"</em></p>
