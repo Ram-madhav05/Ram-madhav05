@@ -13,54 +13,52 @@ A passionate Frontend Developer from India, focused on building seamless and per
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&width=435&lines=⚡ Building+tomorrow's+web,+today." alt="Typing SVG" />
+</p>
 
-<!-- 🖥️ Frontend -->
-<div>
-  <h3 class="font-semibold text-lg mb-2">🖥️ Frontend</h3>
-  <ul class="space-y-1">
-    <li>React</li>
-    <li>JavaScript (ES6+)</li>
-  </ul>
-</div>
+---
 
-<!-- ⚙️ Backend -->
-<div>
-  <h3 class="font-semibold text-lg mb-2">⚙️ Backend</h3>
-  <ul class="space-y-1">
-    <li>Java</li>
-    <li>Spring Boot</li>
-    <li>Node.js</li>
-    <li>Express.js</li>
-  </ul>
-</div>
+## 🚀 Tech Stack
 
-<!-- 🔧 DevOps & Tools -->
-<div>
-  <h3 class="font-semibold text-lg mb-2">🔧 DevOps & Tools</h3>
-  <ul class="space-y-1">
-    <li>Git & GitHub</li>
-    <li>Jenkins</li>
-  </ul>
-</div>
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+</p>
 
-<!-- 🗄️ Databases -->
-<div>
-  <h3 class="font-semibold text-lg mb-2">🗄️ Databases</h3>
-  <ul class="space-y-1">
-    <li>MongoDB</li>
-    <li>MySQL</li>
-  </ul>
-</div>
+### 🧠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+</p>
 
-<!-- 🧠 AI / ML -->
-<div>
-  <h3 class="font-semibold text-lg mb-2">🧠 AI / ML</h3>
-  <ul class="space-y-1">
-    <li>TensorFlow</li>
-    <li>Basic LLM Concepts</li>
-  </ul>
-</div>
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🧪 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+> Curious, collaborative, and driven to contribute — open to impactful projects & open-source contributions.
+
+---
 
 
 
