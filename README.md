@@ -11,8 +11,6 @@ A passionate Frontend Developer from India, focused on building seamless and per
 - 🌱 I’m currently learning **React**, **JavaScript**, **Java (Spring Boot)**, **CI/CD pipelines (Jenkins)**
 - 📫 Reach me at: [rammadhav3000@gmail.com](mailto:rammadhav3000@gmail.com)
 
----
-
 
 ---
 
