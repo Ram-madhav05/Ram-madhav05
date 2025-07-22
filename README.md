@@ -15,60 +15,53 @@ A passionate Frontend Developer from India, focused on building seamless and per
 
 ### 🛠️ Tech Stack
 
-<section class="py-6 px-4 bg-gray-50">
-  <h2 class="text-2xl font-bold mb-4 text-gray-800">🚀 Tech Stack</h2>
+<!-- 🖥️ Frontend -->
+<div>
+  <h3 class="font-semibold text-lg mb-2">🖥️ Frontend</h3>
+  <ul class="space-y-1">
+    <li>React</li>
+    <li>JavaScript (ES6+)</li>
+  </ul>
+</div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-gray-700">
-    
-    <!-- Frontend -->
-    <div>
-      <h3 class="font-semibold text-lg mb-2">🖥️ Frontend</h3>
-      <ul class="space-y-1">
-        <li>React</li>
-        <li>JavaScript (ES6+)</li>
-      </ul>
-    </div>
+<!-- ⚙️ Backend -->
+<div>
+  <h3 class="font-semibold text-lg mb-2">⚙️ Backend</h3>
+  <ul class="space-y-1">
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>Node.js</li>
+    <li>Express.js</li>
+  </ul>
+</div>
 
-    <!-- Backend -->
-    <div>
-      <h3 class="font-semibold text-lg mb-2">⚙️ Backend</h3>
-      <ul class="space-y-1">
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Node.js</li>
-        <li>Express.js</li>
-      </ul>
-    </div>
+<!-- 🔧 DevOps & Tools -->
+<div>
+  <h3 class="font-semibold text-lg mb-2">🔧 DevOps & Tools</h3>
+  <ul class="space-y-1">
+    <li>Git & GitHub</li>
+    <li>Jenkins</li>
+  </ul>
+</div>
 
-    <!-- DevOps & Tools -->
-    <div>
-      <h3 class="font-semibold text-lg mb-2">🛠️ DevOps & Tools</h3>
-      <ul class="space-y-1">
-        <li>Jenkins</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </div>
+<!-- 🗄️ Databases -->
+<div>
+  <h3 class="font-semibold text-lg mb-2">🗄️ Databases</h3>
+  <ul class="space-y-1">
+    <li>MongoDB</li>
+    <li>MySQL</li>
+  </ul>
+</div>
 
-    <!-- Databases -->
-    <div>
-      <h3 class="font-semibold text-lg mb-2">🗃️ Databases</h3>
-      <ul class="space-y-1">
-        <li>MongoDB</li>
-        <li>MySQL</li>
-      </ul>
-    </div>
+<!-- 🧠 AI / ML -->
+<div>
+  <h3 class="font-semibold text-lg mb-2">🧠 AI / ML</h3>
+  <ul class="space-y-1">
+    <li>TensorFlow</li>
+    <li>Basic LLM Concepts</li>
+  </ul>
+</div>
 
-    <!-- AI/ML -->
-    <div>
-      <h3 class="font-semibold text-lg mb-2">🧠 AI/ML</h3>
-      <ul class="space-y-1">
-        <li>TensorFlow</li>
-        <li>Basic LLM Concepts</li>
-      </ul>
-    </div>
-
-  </div>
-</section>
 
 
 ### 🔭 Current Goals & Learning Focus
