@@ -13,9 +13,6 @@ A passionate Frontend Developer from India, focused on building seamless and per
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&width=435&lines=⚡ Building+tomorrow's+web,+today." alt="Typing SVG" />
-</p>
 
 ---
 
