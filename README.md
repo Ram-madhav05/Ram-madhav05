@@ -84,7 +84,7 @@ A passionate Frontend Developer from India, focused on building seamless and per
 ### 📬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ram-madhav-m-420466336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Ram-madhav05" target="_blank">
